@@ -1,1 +1,2 @@
 # Stock-Price-prediction-using-RNN
+This repository applies Recurrent Neural Networks (RNNs) to forecast stock prices, employing a methodology outlined in research by Professor Yongqiong Zhu of the School of Art at Wuhan Business University, located in Wuhan, China. RNNs, known for their effectiveness in processing sequential data, are particularly apt for time-series analysis, such as tracking and predicting stock market trends. The use of a technique from a professor affiliated with an art school suggests an innovative, cross-disciplinary approach to financial modeling.
